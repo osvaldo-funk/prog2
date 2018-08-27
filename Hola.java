@@ -1,5 +1,6 @@
-public class Hola{
-        public static void main (String args[]){
-   System.out.println("Hola Mundo");
+publci class hola{
+             public static void main(string args[]){
+            System.out.printl("Que tranza karnal");
 }
-}
+
+    }
